@@ -278,10 +278,5 @@ $ cd plotly & python3 dashboard.py
 
 Contributions to RealTime StockStream are welcome, just open a PR 😊.
 
-## Authors
 
-- [Abdullah Alqahtani🚀](https://github.com/anqorithm)
 
-## License
-
-This project is licensed under the MIT License.
